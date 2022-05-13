@@ -1,0 +1,7 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\bin\Debug\ShortcutSharp.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\bin\Debug\ShortcutSharp.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\obj\Debug\Interop.IWshRuntimeLibrary.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\obj\Debug\ShortcutSharp.csproj.ResolveComReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\obj\Debug\ShortcutSharp.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\obj\Debug\ShortcutSharp.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ShortcutSharp\ShortcutSharp\obj\Debug\ShortcutSharp.csprojResolveAssemblyReference.cache
