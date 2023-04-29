@@ -1,5 +1,6 @@
 # ArticPolar.Dev.ShortcutSharp
 Create and Delete Shortcut on Desktop
+Nuget Package: [Here](https://www.nuget.org/packages/ArticPolar.Dev.ShortcutSharp)
 
 # Usage:
 
