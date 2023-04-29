@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutSharp", "ShortcutSharp\ShortcutSharp.csproj", "{3FDC55C9-E364-444C-B9D8-0513DF8D5D2C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConsole", "testConsole\testConsole.csproj", "{64D30CE0-00CC-461D-AD7B-38CB8DBE94DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutSharp", "ShortcutSharp\ArticPolar.Dev.ShortcutSharp.csproj", "{3FDC55C9-E364-444C-B9D8-0513DF8D5D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
