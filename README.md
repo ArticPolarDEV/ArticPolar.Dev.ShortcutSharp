@@ -1,9 +1,12 @@
-# ShortcutSharp
+# ArticPolar.Dev.ShortcutSharp
 Create and Delete Shortcut on Desktop
-# Usage: 
+
+# Usage:
+
+## Create Shortcut 
 ````
 using System;
-using ShortcutSharp;
+using ArticPolar.Dev.ShortcutSharp;
 
 namespace myConsole
 {
@@ -11,9 +14,28 @@ namespace myConsole
     {
         static void Main(string[] args)
         {
-            ShortcutSharp.Functions.CreateShortcut("name\of\app", @"path\to\icon.ico", @"executable\path, "description", @"working\directory");
+            ShortcutSharp.CreateShortcut("name\of\shortcut", @"path\to\icon.ico", @"executable\path, "description", @"working\directory");
             Console.ReadKey();
         }
     }
 }
+````
+
+## Delete Shortcut
+````
+using System;
+using ArticPolar.Dev.ShortcutSharp;
+
+namespace myConsole
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ShortcutSharp.DeleteShortcut("name\of\shortcut");
+            Console.ReadKey();
+        }
+    }
+}
+
 ````
