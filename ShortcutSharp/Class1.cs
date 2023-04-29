@@ -26,8 +26,11 @@ namespace ShortcutSharp
             shortcut.IconLocation = Icon;
             shortcut.Save();
         }
-        public static void DeleteShortcut(string ShortcutPath)
+        public static void DeleteShortcut(string ShortcutName)
         {
+            object shortcutDesktop = (object)"Desktop";
+            WshShell shell = new WshShell();
+            string ShortcutPath = (String)shell.SpecialFolders.Item(ref shortcutDesktop) + @"\" + ShortcutName + ".lnk"; 
             FileInfo INFO = new FileInfo(@ShortcutPath);
             if (INFO.Extension == ".lnk")
             {
